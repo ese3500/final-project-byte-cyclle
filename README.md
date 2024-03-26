@@ -13,6 +13,9 @@
 
 In a few sentences, describe your final project. This abstract will be used as the description in the evaluation survey forms.
 
+Motor vehicle accidents are the leading cause of death amongst cyclists. Our final project is a whole bike safety system equipped with dynamic lights that adjust based on time of day and accelerometer data to detect braking and activate brake lights.
+
+
 ### 2. Motivation
 
 What is the problem that you are trying to solve? Why is this project interesting? What is the intended purpose?
