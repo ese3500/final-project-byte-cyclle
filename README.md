@@ -30,6 +30,8 @@ These are to help guide and direct your progress.
 
 Formulate key software requirements here.
 
+The software most importantly should take in the accelerometer data using serial communication and based on the data, decides whether or not to activate LEDs. An ADC should also be programmed for the photo resistor. Moreover, a pin change interupt should monitor the signal coming from a power management IC that detects voltage sag of the battery. Serial communication to communicate to RTC chip. Also serial communication to display all necessary information to a display. The software should also 3d render ultrasonic data to help visualize distance to cars behind.
+
 ### 5. Hardware Requirements Specification (HRS)
 
 Formulate key hardware requirements here.
