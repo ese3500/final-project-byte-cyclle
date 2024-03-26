@@ -1,9 +1,9 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/2TmiRqwI)
 # final-project-skeleton
 
-    * Team Name: 
-    * Team Members: 
-    * Github Repository URL: 
+    * Team Name: Byte-cycle
+    * Team Members: Maya Huizar and Chris Connolly
+    * Github Repository URL: https://github.com/ese3500/final-project-byte-cyclle
     * Github Pages Website URL: [for final submission]
     * Description of hardware: (embedded hardware, laptop, etc) 
 
