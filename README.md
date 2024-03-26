@@ -20,6 +20,8 @@ Motor vehicle accidents are the leading cause of death amongst cyclists. Our fin
 
 What is the problem that you are trying to solve? Why is this project interesting? What is the intended purpose?
 
+Over 130,000 cyclists are injured every year in the United States. To mitigate the risks of sharing the road with vechiles oftentimes moving at higher speeds, we plan to make a device that increases cyclist safety by increasing visibility. Moreover, the device will be able to measure if the cyclists are slowing down or stopping and will activate brake lights to communicate these actions on the road. 
+
 ### 3. Goals
 
 These are to help guide and direct your progress.
